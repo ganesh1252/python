@@ -1,0 +1,10 @@
+scratch Examples
+1.Traingle -a. equilateral
+	    b.Right angle triangle
+	    c. isosceles traingle
+2.Sqaure
+3.Rectangle
+4.petagon
+5.Hexagon
+6.Octagon
+7.Circle
